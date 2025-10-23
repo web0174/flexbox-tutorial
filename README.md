@@ -1,6 +1,6 @@
 # Tutorial interattivo Flexbox
 
-## Come Funziona Questa Pagina
+## Come Funziona Questa Pagina:
 
 ### Struttura HTML:
 
